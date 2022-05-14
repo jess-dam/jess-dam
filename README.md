@@ -22,6 +22,13 @@ Hello 👋  - I'm a junior full stack software engineer based in London, UK.
 
 
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+
 📖 **Currently Reading**
 
 Do Androids Dream of Electric Sheep? - _Phillip K. Dick_
