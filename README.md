@@ -1,9 +1,10 @@
-### Jess Dam | jess-dam  
-_(she/her)_
+![GitHub Banner](https://user-images.githubusercontent.com/33174730/170387095-df7ebe59-26d4-4c5d-9c79-4cce331b6602.gif)
 
-___
 
-Hello 👋  - I'm a junior full stack software engineer based in London, UK.
+---
+
+I'm a junior full stack software engineer based in London, UK.
+
 
 
 💻  **Most days I use**
@@ -45,3 +46,11 @@ Do Androids Dream of Electric Sheep? - _Phillip K. Dick_
 ---
 
 [![linkedin](https://user-images.githubusercontent.com/33174730/168251347-6555479c-222b-49e6-8480-408de335a709.png)](https://www.linkedin.com/in/jess-dam-507485165/)
+
+
+
+#### With the help of some nifty projects ❤️
+
+https://github.com/athul/waka-readme
+
+https://media.giphy.com/media/BRN2Xi0MqnjjO/giphy.gif
