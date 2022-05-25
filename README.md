@@ -17,14 +17,10 @@ Hello 👋  - I'm a junior full stack software engineer based in London, UK.
 
 - Python 🐍
 - C++ 🤖
-- Kubenetes
-- Swift 
+- Rust 🦀
+- Kubenetes 🚢
+- Swift 🐦
 
-
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 
