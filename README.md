@@ -3,18 +3,20 @@
 
 ---
 
+
 I'm a junior full stack software engineer based in London, UK.
 
 
+<br/>
 
-💻  **Most days I use**
+<h4> 💻  Most days I use </h4>
 
 - Java ☕
 - React.js :electron:
 - Postgresql 🐘
 
 
-🌱 **Some other things I'm learning**
+<h4> 🌱 Some other things I'm learning </h4>
 
 - Python 🐍
 - C++ 🤖
@@ -38,8 +40,11 @@ TypeScript                   ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<br/>
 
-📖 **Currently Reading**
+<div align="center">
+  
+  <h4>📖 Currently Reading</h4>
 
 Do Androids Dream of Electric Sheep? - _Phillip K. Dick_
 
@@ -54,3 +59,5 @@ Do Androids Dream of Electric Sheep? - _Phillip K. Dick_
 https://github.com/athul/waka-readme
 
 https://media.giphy.com/media/BRN2Xi0MqnjjO/giphy.gif
+  
+</div>
