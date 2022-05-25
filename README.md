@@ -22,7 +22,8 @@ Hello 👋  - I'm a junior full stack software engineer based in London, UK.
 - Swift 🐦
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 📖 **Currently Reading**
