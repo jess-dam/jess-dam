@@ -52,7 +52,7 @@ Other                        ▒░░░░░░░░░░░░░░░░
   
   <h4>📖 Currently Reading</h4>
 
-Do Androids Dream of Electric Sheep? - _Phillip K. Dick_
+Dune - _Frank Herbert_
 
 ---
 
