@@ -36,12 +36,12 @@ I'm a junior full stack software engineer based in London, UK.
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2022 - To: 27 September 2022
+From: 29 August 2022 - To: 28 September 2022
 
-Java                         █████████████████▓░░░░░░░   70.88 %
-XML                          █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-SQL                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Java                         ███████████████████░░░░░░   76.28 %
+XML                          ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+SQL                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
