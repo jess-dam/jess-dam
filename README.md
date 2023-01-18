@@ -52,7 +52,7 @@ SQL                          ░░░░░░░░░░░░░░░░░
   
   <h4>📖 Currently Reading</h4>
 
-Dune - _Frank Herbert_
+What We Cannot Know - _Marcus Du Sautoy_
 
 ---
 
