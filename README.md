@@ -36,7 +36,7 @@ I'm a junior full stack software engineer based in London, UK.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 February 2023 - To: 11 March 2023
+From: 11 February 2023 - To: 12 March 2023
 
 Java                           █████████████████████▒░░░   85.82 %
 Kotlin                         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
