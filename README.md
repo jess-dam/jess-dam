@@ -4,7 +4,7 @@
 ---
 
 
-I'm a junior full stack software engineer based in London, UK.
+I'm a full stack software engineer based in London, UK.
 
 
 <br/>
