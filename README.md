@@ -36,13 +36,13 @@ I'm a full stack software engineer based in London, UK.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 30 October 2023
+From: 01 October 2023 - To: 31 October 2023
 
-TypeScript                       ████████████████████████░   96.23 %
-ActionScript 3                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JavaScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-CSS                              ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Ezhil                            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript                       ███████████████████████▒░   93.38 %
+CSS                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JavaScript                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+ActionScript 3                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Ezhil                            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
