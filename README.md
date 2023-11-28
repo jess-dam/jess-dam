@@ -52,7 +52,7 @@ JSON                         ▒░░░░░░░░░░░░░░░░
   
   <h4>📖 Currently Reading</h4>
 
-What We Cannot Know - _Marcus Du Sautoy_
+Factfulness - _Hans Rosling, Ola Rosling, Anna Rosling Rönnlund_
 
 ---
 
