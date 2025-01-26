@@ -36,7 +36,7 @@ I'm a full stack software engineer based in London, UK.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 23 January 2025
+From: 26 December 2024 - To: 24 January 2025
 
 TypeScript                   ████████████████████████▓   98.29 %
 JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
