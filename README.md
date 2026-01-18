@@ -36,7 +36,7 @@ I'm a full stack software engineer based in London, UK.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 15 January 2026
+From: 18 December 2025 - To: 16 January 2026
 
 No activity tracked
 ```
