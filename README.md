@@ -39,12 +39,12 @@ I'm a full stack software engineer based in London, UK.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 01 August 2026
+From: 03 July 2026 - To: 02 August 2026
 
-Python                             ████████████████████████▒   97.57 %
-Markdown                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Bash                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Git Config                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python                             ████████████████████████▒   97.47 %
+Markdown                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Bash                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Git Config                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Text                               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
